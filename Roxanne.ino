@@ -1,3 +1,7 @@
+/*O código controla a velocidade de um motor DC utilizando um Arduino, 
+botões para aumentar e diminuir a velocidade, e um display de 7 segmentos para exibir a porcentagem da potência do motor. 
+O motor pode ser ligado e desligado com um botão, e a velocidade é ajustada por PWM.*/
+
 #define ch 8
 #define up 5
 #define down 6
